@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<files-path/> 代表的根目录： Context.getFilesDir()-->
+    <!--<external-path/> 代表的根目录: Environment.getExternalStorageDirectory()-->
+    <!--<cache-path/> 代表的根目录: getCacheDir()-->
+
+    <external-files-path name="Download" path="."/>
+
+    <!--可以访问外部存储目录下，Pictures文件夹下的文件。-->
+    <!--就是说，可将这个文件夹下（/storage/emulated/0/Pictures）的所有文件传递给图片编辑页面。-->
+    <external-path path="Pictures" name="camera_photos" />
+
+    <!--代码如下，可以传递外部存储设备根目录下的任意一张图片了（包括其子目录）-->
+    <!--<external-path path="" name="camera_photos" />-->
+</paths>

@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">乐赢手游</string>
+    <string name="version">1.0.0</string>
+
+    <!--維護測試站點-->
+    <!--<string name="requestUrl">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl2">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl3">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl4">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--前端跳轉維護-->
+    <!--<string name="requestUrl">http://m.maintain02.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl2">http://m.maintain02.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl3">http://m.maintain02.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl4">http://m.maintain02.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--IT維護測試站點-->
+    <!--<string name="requestUrl">http://m.maintain.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl2">http://m.maintain.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl3">http://m.maintain.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--<string name="requestUrl4">http://m.maintain.com/app/queryMainDomain1?appSitePath=APPTEAM01&amp;mark=new</string>-->
+    <!--UAT測試站點-->
+    <!--<string name="requestUrl">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=WINVIP01&amp;mark=new</string>-->
+    <!--<string name="requestUrl2">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=WINVIP01&amp;mark=new</string>-->
+    <!--<string name="requestUrl3">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=WINVIP01&amp;mark=new</string>-->
+    <!--<string name="requestUrl4">http://yingjia66.duasla.com/app/queryMainDomain1?appSitePath=WINVIP01&amp;mark=new</string>-->
+
+    <string-array name="requestUrls">
+        <item>https://m.iasjsapplya.lydorimecz.com:5067/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> <!--tagMBA_requestUrl-->
+        <item>https://m.iasjsapplya.lydorimebzd.com:5067/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> <!--tagMBA_requestUrl2-->
+        <item>https://m.iasjsapplya.lyldorimepoi.com:5067/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> <!--tagMBA_requestUrl3-->
+        <item>https://m.iasjsapplya.lydorimeyui.com:5067/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> <!--tagMBA_requestUrl4-->
+        <!--<item>http://m01.lyprd.com/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> &lt;!&ndash;tagMBA_requestUrl&ndash;&gt;-->
+        <!--<item>http://m02.lyprd.com/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> &lt;!&ndash;tagMBA_requestUrl2&ndash;&gt;-->
+        <!--<item>http://m03.lyprd.com/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> &lt;!&ndash;tagMBA_requestUrl3&ndash;&gt;-->
+        <!--<item>http://m04.lyprd.com/app/queryMainDomainSecurity?appSitePath=LY01&amp;mark=new</item> &lt;!&ndash;tagMBA_requestUrl4&ndash;&gt;-->
+
+        <!--tagMBA_requestUrl5-->
+        <!--tagMBA_requestUrl6-->
+    </string-array>
+
+    <string name="tg_url">https://api.telegram.org/bot751010255:AAHMC2SnuUT_zMLuxAJupvfiLSm-KTcG-s8/sendMessage</string>
+    <string name="tg_test_char_id">-341829245</string>
+    <string name="tg_char_id">-299003390</string>
+
+    <string name="tip_title">温馨提示</string>
+    <string name="tip_content_detect_new_version">检查到新的版本\n点击确定开始更新</string>
+    <string name="tip_content_detect_download">点击确定开始下载</string>
+    <string name="tip_content_connect_time_out1">线路繁忙，请重新连线！</string>
+    <string name="tip_content_connect_time_out2">网路繁忙，请重新连线！</string>
+    <string name="tip_content_connect_time_out3">域名导转繁忙，请重新连线！</string>
+    <string name="tip_content_default_connect_time_out1">网路连接异常\n请点击重新加载</string>
+    <string name="tip_content_default_connect_time_out2">网页加载失败，是否重新加载？</string>
+    <string name="tip_content_downloading">下载中，请稍后</string>
+    <string name="tip_content_os_not_match">系统不符，请下载安卓app</string>
+    <string name="button_ok">确定</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_reconnect">重新加载</string>
+    <string name="tip_short_title">提示</string>
+    <string name="tip_content_clear_sucess">清除成功</string>
+    <string name="download_description">下载中，请稍后</string>
+    <string name="tip_content_qq_install">请先安装手机QQ</string>
+    <string name="tip_content_weixin_install">请先安装手机微信</string>
+    <string name="tip_content_alipay_install">请先安装手机支付宝</string>
+    <string name="tip_content_uppay_install">请先安装手机银联云闪付</string>
+    <string name="tip_content_taobao_install">请先安装手机淘宝</string>
+    <string name="tip_can_not_trans">\n已复制</string>
+    <string name="tip_can_not_decode_qrcode">无法解析二维码</string>
+    <string name="tip_show_qrcode_content">二维码解析内容\n</string>
+    <string name="tip_save_qrcode_image_tilte">存储二维码图片</string>
+    <string name="tip_save_qrcode_image">保存成功</string>
+    <string name="tip_save_qrcode_permissions">您已关闭照片存取权限，是否前往应用程式中设置开启照片存取权限？</string>
+    <string name="menu_back">上一页</string>
+    <string name="menu_next">下一页</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_clear">清除缓存</string>
+    <string name="menu_about">关于</string>
+    <string name="download_tag">bwt.yfbhj.fileprovider</string>
+
+    <string name="tip_content_browser_download">将用浏览器开启连结\n点击确定开始下载</string>
+    <string name="tip_content_browser_downloading">已开启浏览器进行下载</string>
+    <string name="button_return_app">返回 APP</string>
+    <string name="button_set_permissions">前往</string>
+
+    <string name="jsonString_referer_obj">{\"wx.tenpay\":\"http://mypay.ya3721.com\",\"095pay.com\":\"http://pay.095pay.com/BarCodePay/BarCodeMobile\",\"heepay.com\":\"http://payapi.3vpay.net\"}</string>
+    <!--<string name="jsonString_referer_url">[{\"url\":\"wx.tenpay\",\"referer\":\"http://2233007.com\"},{\"url\":\"095pay.com\",\"referer\":\"http://pay.095pay.com/BarCodePay/BarCodeMobile\"},{\"url\":\"heepay.com\",\"referer\":\"http://payapi.3vpay.net\"}]</string>-->
+    <string name="jsonString_referer_url">[
+        <!--{\"paths\":[{\"path\":\"pay.pgffg.com\",\"referer\":\"http://pay.pgffg.com\"},{\"path\":\"www.jqqpq.com\",\"referer\":\"http://www.jqqpq.com\"},{\"path\":\"www.115247.com\",\"referer\":\"http://www.115247.com\"},{\"path\":\"1213101.com\",\"referer\":\"http://1213101.com\"},{\"path\":\"pay.nmlll.com\",\"referer\":\"http://pay.nmlll.com\"},{\"path\":\"pay.ddwxmy.com\",\"referer\":\"http://pay.ddwxmy.com\"},{\"path\":\"sslpay.flq08.cn\",\"referer\":\"http://sslpay.flq08.cn\"},{\"path\":\"pay.66shou.com\",\"referer\":\"http://pay.66shou.com\"},{\"path\":\"pay.brbqr.com\",\"referer\":\"http://pay.brbqr.com\"},{\"path\":\"www.yp878.com\",\"referer\":\"http://www.yp878.com\"},{\"path\":\"pay.80627.net\",\"referer\":\"http://pay.80627.net\"}],\"referer\":\"http://mypay.ya3721.com\",\"url\":\"wx.tenpay\",\"chkRedirectUrl\":true},-->
+        {\"paths\":[],\"referer\":\"http://mypay.ya3721.com\",\"url\":\"wx.tenpay\",\"chkRedirectUrl\":false,\"setCurrentUrl\": true},
+        {\"paths\":[],\"referer\":\"http://pay.095pay.com/BarCodePay/BarCodeMobile\",\"url\":\"095pay.com\",\"chkRedirectUrl\":false,\"setCurrentUrl\": true},
+        {\"paths\":[],\"referer\":\"http://payapi.3vpay.net\",\"url\":\"heepay.com\",\"chkRedirectUrl\":false,\"setCurrentUrl\": true}]</string>
+    <string name="jsonString_referer_test">[{\"url\":\"wx.tenpay\",\"referer\":null},{\"url\":\"095pay.com\",\"referer\":\"http://pay.095pay.com/BarCodePay/123456\"},{\"url\":null,\"referer\":\"\"}]</string>
+
+    <string name="maintain_msg">为了提升更好的品质 , 目前网站正在维护中</string>
+    <string name="exit_app_msg">再次点击返回将退出装置</string>
+    <string name="now_version">当前版本号: %s</string>
+
+
+</resources>
